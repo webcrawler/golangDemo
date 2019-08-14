@@ -1,0 +1,7 @@
+--import(".socket_ext")
+import(".ByteArray")
+import(".NetEnumDef")
+import(".NetMsgType")
+import(".NetPacket")
+import(".NetMgr")
+import(".NetSocket")
