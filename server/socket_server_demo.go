@@ -22,7 +22,7 @@ func handleConn(c net.Conn) {
 
 		// write to the connection
 		log.Println("start to write")
-		words := "joke"
+		words := "1234567890"
 		c.Write([]byte(words))
 	}
 }
